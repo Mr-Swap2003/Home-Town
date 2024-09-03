@@ -39,7 +39,7 @@ border: 3px solid rgba(255,255,255,0.684);
 }
 
 #H2{
-text-decoration: wavy underline #fff;
+text-decoration: double underline #fff;
 height: 50px;
 text-align: center;
 position: absolute;
